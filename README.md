@@ -170,7 +170,7 @@ Relevant coursework: Web Development 1 & 2, Database Management Systems, Systems
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-geofftorres6@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:geofftorres6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua_Geoff_Babor-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua_Geoff_Babor-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-geoff-babor-590212407)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-00D4AA?style=flat-square&logo=googlechrome&logoColor=white)](https://gye0p.github.io)
 
 </div>
