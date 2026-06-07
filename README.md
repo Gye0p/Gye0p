@@ -137,21 +137,16 @@ class JoshuaGeoffBabor {
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gye0p&show_icons=true&theme=dark&bg_color=070b14&title_color=00d4aa&icon_color=00d4aa&text_color=e2e8f0&border_color=1a2535&hide_border=false" alt="Gye0p's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gye0p&layout=compact&theme=dark&bg_color=070b14&title_color=00d4aa&text_color=e2e8f0&border_color=1a2535&hide_border=false" alt="Gye0p's Top Languages" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gye0p&show_icons=true&theme=dark&bg_color=070b14&title_color=00d4aa&icon_color=00d4aa&text_color=e2e8f0&border_color=1a2535&hide_border=false" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gye0p&layout=compact&theme=dark&bg_color=070b14&title_color=00d4aa&text_color=e2e8f0&border_color=1a2535&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Gye0p&theme=dark&background=070b14&border=1a2535&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=e2e8f0&dates=64748b)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gye0p&theme=dark&background=070b14&border=1a2535&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=e2e8f0&dates=64748b" alt="Gye0p's GitHub Streak" />
+</p>
 
 ---
 
