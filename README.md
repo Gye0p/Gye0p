@@ -141,9 +141,9 @@ class JoshuaGeoffBabor {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Gye0p&show_icons=true&theme=dark&bg_color=070b14&title_color=00d4aa&icon_color=00d4aa&text_color=e2e8f0&border_color=1a2535&hide_border=false&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats-two-psi-56.vercel.app/api?username=Gye0p&show_icons=true&theme=dark&bg_color=070b14&title_color=00d4aa&icon_color=00d4aa&text_color=e2e8f0&border_color=1a2535&hide_border=false" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gye0p&layout=compact&theme=dark&bg_color=070b14&title_color=00d4aa&text_color=e2e8f0&border_color=1a2535&hide_border=false&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats-two-psi-56.vercel.app/api/top-langs/?username=Gye0p&layout=compact&theme=dark&bg_color=070b14&title_color=00d4aa&text_color=e2e8f0&border_color=1a2535&hide_border=false" />
 
 </div>
 
