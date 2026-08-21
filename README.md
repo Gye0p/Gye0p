@@ -41,7 +41,7 @@ class JoshuaGeoffBabor {
         "Web Development",
         "Cybersecurity",
         "BPO & Quality Management",
-        "Anime & Horror Films 🎬",
+        "Anime & Horror Films ",
     ];
 }
 ```
